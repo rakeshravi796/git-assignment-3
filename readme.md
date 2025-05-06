@@ -7,9 +7,10 @@
 
 <h3>Pull request for the second branch done after merging the first one , Merge conflict</h3>
 ![alt text](image.png)
+<img src="image.png">
 
 <h3> The conflict </h3>
-![alt text](image-1.png)
+<img src="image-1.png">
 
 <h2> Resolving conflict </h2>
 
