@@ -14,7 +14,7 @@
 
 <h2> Resolving conflict </h2>
 
-Kept the styling from the main branch and also adding the content from feature/add-content. This Keeps the essential parts from both the branches.
+Kept the styling from the main branch and also adding the content from feature/add-content. This Keeps the essential parts from both the branches. Doing this ensures that there won't be a merge conflict.
 
 ![alt text](image-2.png)
 
